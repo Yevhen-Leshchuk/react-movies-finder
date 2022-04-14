@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c11f95c.css",
+    "main.js": "/static/js/main.0fdf6ec5.js",
+    "home-page.css": "/static/css/home-page.71fb480a.chunk.css",
+    "home-page.js": "/static/js/home-page.7405d9eb.chunk.js",
+    "movies-page.css": "/static/css/movies-page.058445c1.chunk.css",
+    "movies-page.js": "/static/js/movies-page.5e87fd2e.chunk.js",
+    "movies-details-page.css": "/static/css/movies-details-page.4d298e12.chunk.css",
+    "movies-details-page.js": "/static/js/movies-details-page.03d3205e.chunk.js",
+    "cast.css": "/static/css/cast.3d3f4471.chunk.css",
+    "cast.js": "/static/js/cast.5b717727.chunk.js",
+    "reviews.css": "/static/css/reviews.e899ceb7.chunk.css",
+    "reviews.js": "/static/js/reviews.2419141e.chunk.js",
+    "static/js/774.fa6271a3.chunk.js": "/static/js/774.fa6271a3.chunk.js",
+    "static/media/plug.png": "/static/media/plug.56ebbad47c0e0387b6e0.png",
+    "static/media/no-actor.jpg": "/static/media/no-actor.6994aabbe7f6af9119d7.jpg",
+    "static/media/no-poster.jpg": "/static/media/no-poster.51f65e5bfc2262c3d1bb.jpg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.ab2a40432a305679028b.svg",
+    "main.9c11f95c.css.map": "/static/css/main.9c11f95c.css.map",
+    "main.0fdf6ec5.js.map": "/static/js/main.0fdf6ec5.js.map",
+    "home-page.71fb480a.chunk.css.map": "/static/css/home-page.71fb480a.chunk.css.map",
+    "home-page.7405d9eb.chunk.js.map": "/static/js/home-page.7405d9eb.chunk.js.map",
+    "movies-page.058445c1.chunk.css.map": "/static/css/movies-page.058445c1.chunk.css.map",
+    "movies-page.5e87fd2e.chunk.js.map": "/static/js/movies-page.5e87fd2e.chunk.js.map",
+    "movies-details-page.4d298e12.chunk.css.map": "/static/css/movies-details-page.4d298e12.chunk.css.map",
+    "movies-details-page.03d3205e.chunk.js.map": "/static/js/movies-details-page.03d3205e.chunk.js.map",
+    "cast.3d3f4471.chunk.css.map": "/static/css/cast.3d3f4471.chunk.css.map",
+    "cast.5b717727.chunk.js.map": "/static/js/cast.5b717727.chunk.js.map",
+    "reviews.e899ceb7.chunk.css.map": "/static/css/reviews.e899ceb7.chunk.css.map",
+    "reviews.2419141e.chunk.js.map": "/static/js/reviews.2419141e.chunk.js.map",
+    "774.fa6271a3.chunk.js.map": "/static/js/774.fa6271a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c11f95c.css",
+    "static/js/main.0fdf6ec5.js"
+  ]
+}
